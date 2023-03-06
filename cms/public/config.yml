@@ -20,9 +20,7 @@ collections:
   label: Posts
   label_singular: Post
   description: 'The description is a great place for tone setting, high level information,
-    and editing guidelines that are specific to a collection.
-
-    '
+    and editing guidelines that are specific to a collection.'
   folder: public/_posts
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   create: true
